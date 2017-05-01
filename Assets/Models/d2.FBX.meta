@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 6e0d6f1ede95b5d4fad414c54869d86a
+timeCreated: 1493633515
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001 Footsteps
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 L Calf
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger0Nub
+    100012: Bip001 L Foot
+    100014: Bip001 L Forearm
+    100016: Bip001 L Hand
+    100018: Bip001 L Toe0
+    100020: Bip001 L Toe0Nub
+    100022: Bip001 L UpperArm
+    100024: "Bip001 L \u5927\u817F"
+    100026: "Bip001 L \u80A9"
+    100028: Bip001 Neck
+    100030: Bip001 Neck1
+    100032: Bip001 Neck2
+    100034: Bip001 R Calf
+    100036: Bip001 R Finger0
+    100038: Bip001 R Finger0Nub
+    100040: Bip001 R Foot
+    100042: Bip001 R Forearm
+    100044: Bip001 R Hand
+    100046: Bip001 R Toe0
+    100048: Bip001 R Toe0Nub
+    100050: Bip001 R UpperArm
+    100052: "Bip001 R \u5927\u817F"
+    100054: "Bip001 R \u80A9"
+    100056: Bip001 Tail
+    100058: Bip001 Tail1
+    100060: Bip001 Tail2
+    100062: Bip001 Tail3
+    100064: Bip001 Tail4
+    100066: Bip001 TailNub
+    100068: "Bip001 \u76D8\u9AA8"
+    100070: "Bip001 \u80F8\u9AA81"
+    100072: "Bip001 \u80F8\u9AA82"
+    100074: "Bip001 \u80F8\u9AA83"
+    100076: "Bip001 \u80F8\u9AA84"
+    100078: "Bip001 \u80F8\u9AA85"
+    100080: //RootNode
+    100082: eyes
+    100084: Helper001
+    100086: Helper002
+    100088: Helper003
+    100090: Line001
+    100092: Line002
+    100094: Line003
+    100096: "\u4E0A\u989A"
+    100098: "\u4E0B\u989A"
+    100100: "\u53E3\u9F3B"
+    100102: "\u53F3\u773C\u706F"
+    100104: "\u53F3\u773C\u706F.Target"
+    100106: "\u53F3\u8033"
+    100108: "\u5934"
+    100110: "\u5DE6\u773C\u706F"
+    100112: "\u5DE6\u773C\u706F.Target"
+    100114: "\u5DE6\u8033"
+    100116: "\u624B\u811A"
+    100118: "\u820C\u5934"
+    100120: "\u820C\u59341"
+    100122: "\u820C\u59342"
+    100124: "\u820C\u59343"
+    100126: "\u820C\u59344"
+    100128: "\u820C\u59345"
+    100130: "\u8EAB\u4F53"
+    100132: "\u8EAB\u4F53 1"
+    400000: Bip001 Footsteps
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 L Calf
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger0Nub
+    400012: Bip001 L Foot
+    400014: Bip001 L Forearm
+    400016: Bip001 L Hand
+    400018: Bip001 L Toe0
+    400020: Bip001 L Toe0Nub
+    400022: Bip001 L UpperArm
+    400024: "Bip001 L \u5927\u817F"
+    400026: "Bip001 L \u80A9"
+    400028: Bip001 Neck
+    400030: Bip001 Neck1
+    400032: Bip001 Neck2
+    400034: Bip001 R Calf
+    400036: Bip001 R Finger0
+    400038: Bip001 R Finger0Nub
+    400040: Bip001 R Foot
+    400042: Bip001 R Forearm
+    400044: Bip001 R Hand
+    400046: Bip001 R Toe0
+    400048: Bip001 R Toe0Nub
+    400050: Bip001 R UpperArm
+    400052: "Bip001 R \u5927\u817F"
+    400054: "Bip001 R \u80A9"
+    400056: Bip001 Tail
+    400058: Bip001 Tail1
+    400060: Bip001 Tail2
+    400062: Bip001 Tail3
+    400064: Bip001 Tail4
+    400066: Bip001 TailNub
+    400068: "Bip001 \u76D8\u9AA8"
+    400070: "Bip001 \u80F8\u9AA81"
+    400072: "Bip001 \u80F8\u9AA82"
+    400074: "Bip001 \u80F8\u9AA83"
+    400076: "Bip001 \u80F8\u9AA84"
+    400078: "Bip001 \u80F8\u9AA85"
+    400080: //RootNode
+    400082: eyes
+    400084: Helper001
+    400086: Helper002
+    400088: Helper003
+    400090: Line001
+    400092: Line002
+    400094: Line003
+    400096: "\u4E0A\u989A"
+    400098: "\u4E0B\u989A"
+    400100: "\u53E3\u9F3B"
+    400102: "\u53F3\u773C\u706F"
+    400104: "\u53F3\u773C\u706F.Target"
+    400106: "\u53F3\u8033"
+    400108: "\u5934"
+    400110: "\u5DE6\u773C\u706F"
+    400112: "\u5DE6\u773C\u706F.Target"
+    400114: "\u5DE6\u8033"
+    400116: "\u624B\u811A"
+    400118: "\u820C\u5934"
+    400120: "\u820C\u59341"
+    400122: "\u820C\u59342"
+    400124: "\u820C\u59343"
+    400126: "\u820C\u59344"
+    400128: "\u820C\u59345"
+    400130: "\u8EAB\u4F53"
+    400132: "\u8EAB\u4F53 1"
+    4300000: "\u8EAB\u4F53"
+    4300002: "\u5934"
+    4300004: "\u53E3\u9F3B"
+    4300006: eyes
+    4300008: "\u624B\u811A"
+    4300010: "\u820C\u5934"
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eyes
+    13700002: "\u53E3\u9F3B"
+    13700004: "\u5934"
+    13700006: "\u624B\u811A"
+    13700008: "\u820C\u5934"
+    13700010: "\u8EAB\u4F53"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
